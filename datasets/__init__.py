@@ -1,2 +1,2 @@
-from .mpisintel import mpi_sintel_both
-__all__ = ('mpi_sintel_both')
+from .mpisintel import mpi_sintel_both, RRRR
+__all__ = ('mpi_sintel_both', 'RRRR')
